@@ -1,5 +1,5 @@
 # Competitoion Code and Kaggle 
-[Kaggle Notebook RL ](https://www/kaggle.com/code/sangrampatil5150/nuralbrain-v0-5-1-model-train-and-win)
+[Kaggle Notebook RL ](https://www.kaggle.com/code/sangrampatil5150/nuralbrain-v0-5-1-model-train-and-win)
 
 
 # Lux-Design S3
